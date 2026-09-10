@@ -1,9 +1,14 @@
 # BETA
 
-- Rebranding ID: 67f4f539b61e9cd3fd53e75c
-- User ID: 66d8a3a3bc17db112ecf583f
-- App name: BETA
-- Product name: Button Sender
+BETA by BETA.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/a25acbdb-bea7-44fe-8f46-53497b401d16.png
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/a25acbdb-bea7-44fe-8f46-53497b401d16.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/DIGITALPLUS-OFFICIAL/67f4f539b61e9cd3fd53e75c/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **BETA** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/DIGITALPLUS-OFFICIAL/67f4f539b61e9cd3fd53e75c/releases/latest) and reinstall.
